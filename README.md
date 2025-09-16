@@ -119,7 +119,7 @@ npm start
 * Grant webcam permissions.
 * Confirm bounding boxes + detection list update in real time.
 
-### Automated Testing (Optional)
+### Automated Testing
 
 ```bash
 npm install --save-dev jest @testing-library/react @testing-library/jest-dom
