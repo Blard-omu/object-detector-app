@@ -2,8 +2,7 @@
 
 import "@tensorflow/tfjs-backend-cpu";
 import "@tensorflow/tfjs-backend-webgl";
-import { useRouter } from "next/navigation";
-import { Home, LucideArrowLeft } from "lucide-react";
+import {  LucideArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { useRef, useEffect, useState } from "react";
 import Webcam from "react-webcam";
@@ -22,7 +21,6 @@ let detectInterval: NodeJS.Timeout;
 const Camera = () => {
   const webcamRef = useRef<Webcam>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  const router = useRouter();
 
   const [detections, setDetections] = useState<DetectedObject[]>([]);
 
