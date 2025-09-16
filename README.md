@@ -18,6 +18,14 @@ This app runs **entirely client-side** — no external APIs, no backend, and no 
 
 ---
 
+<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1758030256/chatbot/Macbook-Air-localhost_27_xhjoj5.png" alt ="Home_page_lg" />
+
+---
+
+<img src="https://res.cloudinary.com/djkrhjgjd/image/upload/v1758033682/chatbot/Screenshot_2025-09-16_at_15.39.13_y506aq.png" alt ="Home_page_lg" />
+
+
+
 ## Tech Stack
 
 * **Framework**: [Next.js](https://nextjs.org/) (React + TypeScript)
