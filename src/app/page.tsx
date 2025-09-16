@@ -5,8 +5,7 @@ import About from "@/components/sections/about";
 import Footer from "@/components/sections/footer";
 import ContactUs from "@/components/sections/contact";
 import { useEffect } from "react";
-import OurTeam from "@/components/sections/team";
-// import OurCourses from "@/components/sections/courses";
+import Gallery from "@/components/sections/gallery";
 
 
 export default function Home() {
@@ -23,7 +22,7 @@ export default function Home() {
         <Hero />
         <About />
         {/* <OurCourses/> */}
-        <OurTeam/>
+        <Gallery/>
         <ContactUs/>
         <Footer />
       </main>

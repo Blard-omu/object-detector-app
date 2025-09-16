@@ -141,7 +141,7 @@ const Gallery = () => {
           ))}
         </div>
       </div>
-      <div className="flex justify-center">
+      <div className="flex justify-center mt-8 lg:mt-2">
         <Link
           href="/camera"
           className="text-white flex items-center  bg-[#5c4efc] text-sm lg:text-xl px-4 py-3 rounded border border-white hover:border-[#5c4efc] hover:bg-transparent hover:text-[#5c4efc] transition duration-300"
