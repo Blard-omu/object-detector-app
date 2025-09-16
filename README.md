@@ -68,7 +68,7 @@ This app runs **entirely client-side** — no external APIs, no backend, and no 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/object-detection-app.git
+git clone https://github.com/Blard-omu/object-detector-app.git
 cd object-detection-app
 ```
 
